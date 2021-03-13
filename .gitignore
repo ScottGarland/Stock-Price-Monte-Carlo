@@ -73,6 +73,11 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# IDE stuff
+src/django/
+.idea
+.vscode
+
 # Sphinx documentation
 docs/_build/
 
