@@ -16,3 +16,6 @@ Common error(s)
  https://github.com/plotly/plotly.py/issues/2913
  https://github.com/carlinmack/mplexporter/commit/739793fdda66809df80bb6b2d19c0605544f8292.
  - change `_gridOnMajor` to `_major_tick_kw['gridOn']` on line 263.
+
+Here is a dated demo video of the project running:
+https://www.youtube.com/watch?v=gCBtRTQqiy4
