@@ -1,4 +1,4 @@
-# MonteCarlo
+# Stock Price Monte Carlo Simulations
 How to run:
  - First ensure that the file `./src/django/monte_project/settings.py` contains credentials for a MySQL database.
  - Have Python 3 installed on your machine.
