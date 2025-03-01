@@ -1,4 +1,7 @@
 # Stock Price Monte Carlo Simulations
+This project has not been worked on for some time. Here is a demo video of the project running:
+https://www.youtube.com/watch?v=gCBtRTQqiy4
+
 How to run:
  - First ensure that the file `./src/django/monte_project/settings.py` contains credentials for a MySQL database.
  - Have Python 3 installed on your machine.
@@ -16,6 +19,3 @@ Common error(s)
  https://github.com/plotly/plotly.py/issues/2913
  https://github.com/carlinmack/mplexporter/commit/739793fdda66809df80bb6b2d19c0605544f8292.
  - change `_gridOnMajor` to `_major_tick_kw['gridOn']` on line 263.
-
-Here is a demo video of the project running:
-https://www.youtube.com/watch?v=gCBtRTQqiy4
